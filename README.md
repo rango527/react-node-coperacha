@@ -1,12 +1,11 @@
-# Coperacha App   
+# Coperacha App
 <img src="https://user-images.githubusercontent.com/7016669/113189335-18a96080-9229-11eb-99a8-db58f03a6f94.png" width="250" height="250">
 
-Coperacha is a React Native app which make crowdfunding easy, borderless, and fee-free for you and your community. It is built on the Celo blockchain. 
+Coperacha is a React Native app which make crowdfunding easy, borderless, and fee-free for you and your community. It is built on the Celo blockchain.
 
-Celo is a mobile-first blockchain. It is a fork of Ethereum and is built to be a global payments infrastructure targeting the developing world. Celo has two native cryptocurrencies, cUSD (a currency that's pegged to the Dollar, 1 cUSD = 1 USD) and Celo gold (a volatile currency used for Celo governance and utility). 
+Celo is a mobile-first blockchain. It is a fork of Ethereum and is built to be a global payments infrastructure targeting the developing world. Celo has two native cryptocurrencies, cUSD (a currency that's pegged to the Dollar, 1 cUSD = 1 USD) and Celo gold (a volatile currency used for Celo governance and utility).
 
-This app uses cUSD exclusively, and **requires a [Celo test wallet](https://celo.org/developers/wallet) in order to work** 
-
+This app uses cUSD exclusively, and **requires a [Celo test wallet](https://celo.org/developers/wallet) in order to work**
 
 Check out the latest [Expo build here](https://expo.io/@alex243/projects/coperacha) (requires the Expo Go app). Currently Coperacha has only been tested on iOS.
 
@@ -16,12 +15,12 @@ Check out the latest [Expo build here](https://expo.io/@alex243/projects/coperac
 
 "Hacer coperacha" is a phrase used in Central Mexico for putting money together towards a shared goal. The Coperacha app makes this easy.
 
-Usage: *"Vamos a hacer coperacha para la gasolina"* means "Let's put some money together to pay for gas". 
+Usage: *"Vamos a hacer coperacha para la gasolina"* means "Let's put some money together to pay for gas".
 
 
 # Links
 
-We're building this for the ["Make it Mobile Hackathon with Celo" hackathon](https://gitcoin.co/issue/celo-org/gitcoin/8/100024939). 
+We're building this for the ["Make it Mobile Hackathon with Celo" hackathon](https://gitcoin.co/issue/celo-org/gitcoin/8/100024939).
 
 Website: [coperacha.app](https://www.coperacha.app)
 

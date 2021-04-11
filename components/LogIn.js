@@ -6,10 +6,10 @@ import AppContext from './AppContext';
 function LogIn(props) {
   const appContext = useContext(AppContext);
 
-  // Passed from App.js since it needs to modify the loggedIn state in App.js    
+  // Passed from App.js since it needs to modify the loggedIn state in App.js
   logInToCelo = () => {
     console.log("Log in clicked")
-  
+
     appContext.handleLogIn()
   }
 
@@ -17,10 +17,10 @@ function LogIn(props) {
     <View style={styles.container}>
       <Text style={styles.title}>{props.reason}</Text>
 
-      <Button title={"Login"} 
-            buttonStyle={styles.createFundraiserButton} 
-            titleStyle={styles.fundraiserTextStyle} 
-            type="solid"  
+      <Button title={"Login"}
+            buttonStyle={styles.createFundraiserButton}
+            titleStyle={styles.fundraiserTextStyle}
+            type="solid"
             onPress={()=> logInToCelo()}/>
     </View>
   );
@@ -41,10 +41,10 @@ const styles = StyleSheet.create({
     height: 40,
     width: Dimensions.get('window').width - 100,
     backgroundColor: "#35D07F"
-  }, 
+  },
   fundraiserTextStyle: {
     fontFamily: 'proximanova_bold',
-    fontSize: 18, 
+    fontSize: 18,
     color: '#FFFFFF'
   }
 });
